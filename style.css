@@ -1,0 +1,16 @@
+
+h1, h2, h3, h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100px;
+ 
+}
+a{
+    display: inline-block;
+    justify-content: space-around;
+    background-color: green;
+    padding: 1rem 1.5rem;
+    margin: 1rem;
+    color: #fff;
+    text-decoration: none; 
+    border-radius: 3px;
+}
